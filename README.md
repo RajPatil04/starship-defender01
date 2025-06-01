@@ -40,3 +40,4 @@ I used **Amazon Q Developer CLI** to rapidly prototype and build the core game l
 1. Install Pygame:
    ```bash
    pip install pygame
+2. python3 starship_defender.py
